@@ -26,5 +26,5 @@
 
 ---
 
-📧 Contact: junaidbuss18@gmail.com  
-🎓 Shaik Mohammed Junaid – B.Tech CSE, SRM University AP
+📧 Contact: junaidbuss18@gmail.com , 
+🎓 Shaik Mohammed Junaid – B.Tech CSE.
