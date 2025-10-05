@@ -26,5 +26,5 @@
 
 ---
 
-📧 Contact: junaidbuss18@gmail.com , 
+📧 Contact: junaidbuss18@gmail.com , smjunaid.dev@gmail.co
 🎓 Shaik Mohammed Junaid – B.Tech CSE.
