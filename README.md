@@ -6,7 +6,6 @@
 🏢 **Internship By:** Microsoft x Edunet Foundation x AICTE  
 📅 **Duration:** 11 June – 15 July 2025
 
-
 ## 🔧 Tech Stack
 - Python, Scikit-learn, Pandas
 - Random Forest Classifier
