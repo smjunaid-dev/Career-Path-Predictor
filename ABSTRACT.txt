@@ -3,4 +3,4 @@ The Career Path Predictor using Machine Learning is an AI-based system that help
 
 A dataset containing mock student profiles and corresponding career paths is used to train the model. The model is trained and tested using Python and can be integrated into a simple web interface for user interaction. Optionally, the system can be deployed using Microsoft Azure ML Studio or Azure App Service for cloud accessibility.
 
-This project aims to demonstrate how AI can assist in educational guidance and decision-making through predictive analytics.
+This project aims to demonstrate how AI can assist in educational guidance and decision-making through predictive analytics.     
